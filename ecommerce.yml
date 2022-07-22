@@ -1,6 +1,6 @@
 token:
-  expiration_time: 110100
-  secret: value2
+  expiration_time: 1101001
+  secret: value21
 
 gateway:
   ip: 192.168.0.7

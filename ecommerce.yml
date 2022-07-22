@@ -1,5 +1,5 @@
 token:
-  expiration_time: 11000
+  expiration_time: 110100
   secret: value2
 
 gateway:
